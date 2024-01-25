@@ -98,3 +98,6 @@ nav a:focus {
   font-weight:bold;
   outline: 2px solid white;
 }
+  header {
+    padding-top: 50px;
+  }
