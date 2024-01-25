@@ -88,7 +88,7 @@ form button {
 }
 
 #skipnav a:focus{
-  outline: 5px solid #FFF;
+  outline: 3px solid #FFF;
   top:0;
 }
 
@@ -96,5 +96,5 @@ nav a:focus {
   background-color: orange;
   color: black;
   font-weight:bold;
-  outline: 3px solid white;
+  outline: 2px solid white;
 }
