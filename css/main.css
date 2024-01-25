@@ -69,3 +69,31 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+#skipnav{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#skipnav a{
+  background-color: orange;
+  color: #000;
+  font-weight: bold;
+  padding: 15px 5px;
+  position: absolute;
+  top: -50px;
+  text-decoration:none;
+}
+
+#skipnav a:focus{
+  outline: 5px solid #FFF;
+  top:0;
+}
+
+nav a:focus {
+  background-color: orange;
+  color: black;
+  font-weight:bold;
+  outline: 3px solid white;
+}
